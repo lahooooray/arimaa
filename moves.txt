@@ -1,0 +1,105 @@
+Event: Casual Game
+Site: Prague, Czech Republic
+Round: ?
+White: Gold player
+Black: Silver player
+Result: 0-1
+1g Rd2 Ca1 Ma2 Eb1 Hb2 Dc1 Hc2 Dd1 Ce1 Re2 Rf1 Rf2 Rg1 Rg2 Rh1 Rh2 
+1s ma7 ea8 hb7 db8 cc7 hc8 dd7 cd8 re7 re8 rf7 rf8 rg7 rg8 rh7 rh8 
+2g Rg2n 
+2s rh7s hb7s rh6s rg7s 
+3g Re2n Re3n 
+3s ma7s rf7s rg6s ma6s 
+4g resign
+
+1g Rd2 Ca1 Ma2 Eb1 Hb2 Dc1 Hc2 Dd1 Ce1 Re2 Rf1 Rf2 Rg1 Rg2 Rh1 Rh2 
+ +---------------- +
+8|                 |
+7|                 |
+6|     x     x     |
+5|                 |
+4|                 |
+3|     x     x     |
+2| M H H R R R R R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
+1s ma7 ea8 hb7 db8 cc7 hc8 dd7 cd8 re7 re8 rf7 rf8 rg7 rg8 rh7 rh8 
+ +---------------- +
+8| e d h c r r r r |
+7| m h c d r r r r |
+6|     x     x     |
+5|                 |
+4|                 |
+3|     x     x     |
+2| M H H R R R R R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
+2g Rg2n 
+ +---------------- +
+8| e d h c r r r r |
+7| m h c d r r r r |
+6|     x     x     |
+5|                 |
+4|                 |
+3|     x     x R   |
+2| M H H R R R   R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
+2s rh7s hb7s rh6s rg7s 
+ +---------------- +
+8| e d h c r r r r |
+7| m   c d r r     |
+6|   h x     x r r |
+5|                 |
+4|                 |
+3|     x     x R   |
+2| M H H R R R   R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
+3g Re2n Re3n 
+ +---------------- +
+8| e d h c r r r r |
+7| m   c d r r     |
+6|   h x     x r r |
+5|                 |
+4|         R       |
+3|     x     x R   |
+2| M H H R   R   R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
+3s ma7s rf7s rg6s ma6s 
+ +---------------- +
+8| e d h c r r r r |
+7|     c d r       |
+6|   h x     x   r |
+5| m           r   |
+4|         R       |
+3|     x     x R   |
+2| M H H R   R   R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
+4g resign
+ +---------------- +
+8| e d h c r r r r |
+7|     c d r       |
+6|   h x     x   r |
+5| m           r   |
+4|         R       |
+3|     x     x R   |
+2| M H H R   R   R |
+1| C E D D C R R R |
+ +---------------- +
+   a b c d e f g h  
+
